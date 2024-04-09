@@ -1,7 +1,8 @@
----
- Welcome to my blog
-#Computers are Friendly
-Hello world!
 
 ---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+#Computers are Friendly
+Hello world!
 
